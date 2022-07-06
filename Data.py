@@ -8,7 +8,7 @@ class Data:
 ⚡¦في بــوت استـخـراج جلـسـة
 ⚡¦استـخـراج تيرمـكـس تليثون
 ⚡¦وبــايــروجـرام للـمـيــوزك🎧
-- يعمـل هـذا البـوت لمساعدتـك بطريقـة سهلـه للحصـول على كـود تيرمكـس لتشغيل تلـيثون والبايروجرام لتشغيل سـورس اغــاني تم انشـاء هـذا البـوت بواسطـة:  [ᯓ˹ 𝐕𝘼𝙈𝘽𝙄𝙍𖣥⃟⃟⃟⃟⃟🇵🇸فمـبــيرـ͢）⛧](https://t.me/XxlllllllllllllllllllllllllllxX)
+- يعمـل هـذا البـوت لمساعدتـك بطريقـة سهلـه للحصـول على كـود تيرمكـس لتشغيل تلـيثون والبايروجرام لتشغيل سـورس اغــاني تم انشـاء هـذا البـوت بواسطـة:  [- 𝐒𝐨𝐮𝐫𝐜𝐞 𝐋𝐮𝐫𝐚 »）⛧](https://t.me/so_alfaa)
     """
 
     # Home Button
@@ -24,12 +24,12 @@ class Data:
     # Rest Buttons
     buttons = [
         [InlineKeyboardButton("🌐¦اضـغـط لـبـدا استـخـراج كــود", callback_data="generate")],
-        [InlineKeyboardButton("ᯓ˹ 𝐕𝘼𝙈𝘽𝙄𝙍𖣥⃟⃟⃟⃟⃟🇵🇸فمـبــيرـ͢）⛧", url="https://t.me/XxlllllllllllllllllllllllllllxX")],
+        [InlineKeyboardButton("࿈ ժᥱ᥎ ꪔᥲ️ժᎥ᥉᥆ꪀ", url="https://t.me/MaDyY_y")],
         [
             InlineKeyboardButton("❓¦طـريـقـه الاسـتـخـدام", callback_data="help"),
             InlineKeyboardButton("💾¦مـعـلومـات", callback_data="about")
       ],
-        [InlineKeyboardButton("⚙️¦الــســـورس", url="https://t.me/XxvprxX")],
+        [InlineKeyboardButton("╞. 𝐒𝐨𝐮𝐫𝐜𝐞 𝐋𝐮𝐫𝐚 .╡", url="https://t.me/so_alfaa")],
     ]
 
 
@@ -49,9 +49,9 @@ class Data:
 **💾¦مـعـلومـات** 
 ⚡¦بـوت استخـراج كـود تيرمكـس خـاص بســورس التليـثون وكــود بـايــروجـرام خـاص بـسـورس الـمـيـوزك🎶
 
-🌀¦قـنـاه الـبـوت : [🔮𝐒𝐎𝐔𝐑𝐂𝐄 𝐕𝘼𝙈𝘽𝙄𝙍🔮](https://t.me/XxvprxX)
+🌀¦قـنـاه الـبـوت : [- 𝐒𝐨𝐮𝐫𝐜𝐞 𝐋𝐮𝐫𝐚 »](https://t.me/so_alfaa)
 
 🌏¦اللـغــه : [بـايـثـون](www.python.org)
 
-👨🏼‍💻¦الـمـبـرمــج : @XxlllllllllllllllllllllllllllxX
+👨🏼‍💻¦الـمـبـرمــج : @MaDyY_y
     """
