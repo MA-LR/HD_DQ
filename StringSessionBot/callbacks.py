@@ -65,6 +65,6 @@ async def _callbacks(bot: Client, callback_query: CallbackQuery):
 
 
 ERROR_MESSAGE = "عفوا حدث شيء اسثنائي! \n\n**خطأ** : {} " \
-            "\n\nمن فضلك راسلنا هنا @XxlllllllllllllllllllllllllllxX اذا كان هناك خطأ " \
+            "\n\nمن فضلك راسلنا هنا @MaDyY_y اذا كان هناك خطأ " \
             "معلوماتك حساسه لذلك لا ترسلها لاحد  " \
             "لم يتم تسجيل رساله الخطأ هذه من قبلنا!" 
