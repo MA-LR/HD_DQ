@@ -19,10 +19,10 @@ async def must_join_channel(bot: Client, msg: Message):
                 link = chat_info.invite_link
             try:
                 await msg.reply(
-                    f"🚨يجب ان تشترك في قناة [🔮𝐒𝐎𝐔𝐑𝐂𝐄 𝐕𝘼𝙈𝘽𝙄𝙍🔮]({https://t.me/XxvprxX}) حتى تتمكن من استخدام الخدمه بعد الاشتراك قم بضغط علي استارت مره اخري.",
+                    f"🚨يجب ان تشترك في قناة [- 𝐒𝐨𝐮𝐫𝐜𝐞 𝐋𝐮𝐫𝐚 »]({https://t.me/so_alfaa}) حتى تتمكن من استخدام الخدمه بعد الاشتراك قم بضغط علي استارت مره اخري.",
                     disable_web_page_preview=True,
                     reply_markup=InlineKeyboardMarkup([
-                        [InlineKeyboardButton("✅اضـغط للأشتـراك بالـقـنـاه✅", url=link)]
+                        [InlineKeyboardButton("✅ اضـغط للأشتـراك بالـقـنـاه", url=https://t.me/so_alfaa)]
                     ])
                 )
                 await msg.stop_propagation()
